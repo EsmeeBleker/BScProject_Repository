@@ -1,1 +1,10 @@
 Branching Point Information: bifurcation infection rate e = 0.25 d = 0.5 q = 0.5
+   Branching point at i=0.34276, with R=52.7411, Cj=2.98193, Ij=-0.00166, Ca=21.00696, Ia=-0.00696, P=11.41807
+  Eigenvalues: 4.93959E-04 -5.00000E-02 -7.12182E-01 -2.72514E+00+2.09545E+00i -2.72514E+00-2.09545E+00i -5.53259E+00 -7.71552E+00
+
+Branching Point Information: bifurcation energetic costs i = 0.1 d = 0.5 q = 0.5
+  Branching point at e=0.66549, with R=40.35563, Cj=1, Ij=4.88985, Ca=21, Ia=0, P=1.98625
+  Eigenvalues: 6.43954E-10 -5.00000E-02 -1.87770E-01 -5.65173E-01+3.43977E-01i -5.65173E-01-3.43977E-01i -5.54759E+00+3.83455E+00i -5.54759E+00-3.83455E+00i
+  Branching point at e=0.71934, with R=52.74222, Cj=2.98007, Ij=0, Ca=21, Ia=0, P=11.41476
+  Eigenvalues: 2.17309E-10 -5.00000E-02 -7.12549E-01 -1.30402E+00 -2.72376E+00+2.09501E+00i -2.72376E+00-2.09501E+00i -7.72188E+00
+
