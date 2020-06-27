@@ -1,0 +1,3 @@
+Branching Point Information: bifurcation infection rate e = 0.25 d = 0.5 q = 0.5 graph
+  Branching point at i=0.34276, with R=52.7411, Cj=2.98193, Ij=-0.00166, Ca=21.00696, Ia=-0.00696, P=11.41807
+  Eigenvalues: 4.93959E-04 -5.00000E-02 -7.12182E-01 -2.72514E+00+2.09545E+00i -2.72514E+00-2.09545E+00i -5.53259E+00 -7.71552E+00
