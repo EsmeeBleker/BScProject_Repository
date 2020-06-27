@@ -1,0 +1,10 @@
+Will you collect or generate data that is suitable for reuse?
+  Yes. 
+  
+Where will the data be stored during the research?
+  Data will be stored on my computer in a folder named Bachelorproject. 
+ 
+After the project has been completed, how will the data be stored for the long-term and made available for use by third parties? To whom will the data be accessible?
+  The project does not include a component in which empirical or experimental data are collected, but instead consists of the numerical analysis of mathematical models
+  for the population dynamics of host populations, their parasites and predators. R code implementing the model equations, files documenting the parameter choices for
+  analysis and scripts generating the figures with model results will all be stored in a public repository on Github or Bitbucket
